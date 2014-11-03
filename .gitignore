@@ -1,2 +1,6 @@
 .idea/
-FIM.iml
+actions/target/
+model/target/
+service/target/
+utils/target/
+*.iml
